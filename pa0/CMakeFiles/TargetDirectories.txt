@@ -1,0 +1,3 @@
+/Users/tvuanywhere/Documents/github/games101/pa0/CMakeFiles/Transformation.dir
+/Users/tvuanywhere/Documents/github/games101/pa0/CMakeFiles/edit_cache.dir
+/Users/tvuanywhere/Documents/github/games101/pa0/CMakeFiles/rebuild_cache.dir
